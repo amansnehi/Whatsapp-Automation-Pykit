@@ -14,9 +14,19 @@ Whatsapp Automation Pykit can automate whatsapp web and can perform different ta
 # Available commands
 -  ### send_message(), bulk_message(), forward_message(Enter Contact name), links_share()
 ## send_message()
-send_message() command is capable of sending a one liner text to multiple people. 
-**contacts name** should be seperated with ",".contacts name are case sensitive
-![](https://raw.githubusercontent.com/Ankit404butfound/PyWhatKit/master/Images/playonyt.png)  
+send_message() command is capable of sending a one liner text to multiple people.
+### Important points
+- **contacts name** should be seperated with ",".contacts name are case sensitive
+![](https://github.com/amansnehi/Whatsapp-Automation-Pykit/blob/main/Images/send_message.PNG)  
+
+## bulk_message()
+bulk_message() cmd is capable of sendings a multiline message to multiple contacts and groups just using a single line of code.
+
+### Important points
+- Enter the contacts names and groups names in the first column in the groups Excel file and save it
+- Enter the message you desire to send in text_message.txt file and save it
+**case sensitive**
+![](https://github.com/amansnehi/Whatsapp-Automation-Pykit/blob/main/Images/bulk_message.PNG)  
 
 
 
