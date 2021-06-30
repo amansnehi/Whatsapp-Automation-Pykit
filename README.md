@@ -26,7 +26,17 @@ bulk_message() cmd is capable of sendings a multiline message to multiple contac
 - Enter the contacts names and groups names in the first column in the groups Excel file and save it
 - Enter the message you desire to send in text_message.txt file and save it
 **case sensitive**
-![](https://github.com/amansnehi/Whatsapp-Automation-Pykit/blob/main/Images/bulk_message.PNG)  
+![](https://github.com/amansnehi/Whatsapp-Automation-Pykit/blob/main/Images/bulk_messages.PNG) 
+
+## forward_message(...)
+As there is a limit of five for forwarding messages in whatsapp. Now its over by jusing just a single line of command one can forward as many contacts and groups they want.
+
+### Important points
+- save the contacts and groups name in the first column of contacts Excel file and save it.
+- **cons** --> The message should be a forwardable message and the target contact should have only one forwardable message in chat list.
+### Parameter
+- Enter the contact name from where the message is to be forwarded{taget_contact} **case sensitive**
+
 
 
 
