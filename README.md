@@ -37,6 +37,8 @@ As there is a limit of five for forwarding messages in whatsapp. Now its over by
 ### Parameter
 - Enter the contact name from where the message is to be forwarded{taget_contact} **case sensitive**
 
+![](https://github.com/amansnehi/Whatsapp-Automation-Pykit/blob/main/Images/f1.PNG)
+
 
 
 
