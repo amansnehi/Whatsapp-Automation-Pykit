@@ -38,6 +38,12 @@ As there is a limit of five for forwarding messages in whatsapp. Now its over by
 - Enter the contact name from where the message is to be forwarded{taget_contact} **case sensitive**
 
 ![](https://github.com/amansnehi/Whatsapp-Automation-Pykit/blob/main/Images/f1.PNG)
+![](https://github.com/amansnehi/Whatsapp-Automation-Pykit/blob/main/Images/forward_message.PNG)
+
+## links_share()
+This command can be used to share any no. of links to multiple groups.
+
+![]()
 
 
 
