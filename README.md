@@ -41,9 +41,9 @@ As there is a limit of five for forwarding messages in whatsapp. Now its over by
 ![](https://github.com/amansnehi/Whatsapp-Automation-Pykit/blob/main/Images/forward_message.PNG)
 
 ## links_share()
-This command can be used to share any no. of links to multiple groups.
+This command can be used to share any no. of links to multiple groups and contacts all at once.
 
-![]()
+![](https://github.com/amansnehi/Whatsapp-Automation-Pykit/blob/main/Images/links_share.PNG)
 
 
 
